@@ -1,0 +1,4 @@
+vrenv/
+# Ignore build files
+build/
+dist/
